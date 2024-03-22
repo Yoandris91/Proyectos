@@ -1,0 +1,6 @@
+{
+    "maxFailedAttempts": 5,
+    "passwordExpiryDays": 90,
+    "passwordHistory": 24,
+    "sessionExpiryMinutes": 15
+}
